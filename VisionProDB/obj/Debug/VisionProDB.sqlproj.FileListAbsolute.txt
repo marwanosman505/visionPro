@@ -1,0 +1,10 @@
+C:\Users\defpr\Programs\visionPro\VisionProDB\bin\Debug\VisionProDB.dacpac
+C:\Users\defpr\Programs\visionPro\VisionProDB\bin\Debug\VisionProDB.dll
+C:\Users\defpr\Programs\visionPro\VisionProDB\bin\Debug\VisionProDB.pdb
+C:\Users\defpr\Programs\visionPro\VisionProDB\obj\Debug\VisionProDB.sqlproj.AssemblyReference.cache
+C:\Users\defpr\Programs\visionPro\VisionProDB\obj\Debug\Model.xml
+C:\Users\defpr\Programs\visionPro\VisionProDB\obj\Debug\refactor.xml
+C:\Users\defpr\Programs\visionPro\VisionProDB\obj\Debug\postdeploy.sql
+C:\Users\defpr\Programs\visionPro\VisionProDB\obj\Debug\predeploy.sql
+C:\Users\defpr\Programs\visionPro\VisionProDB\obj\Debug\VisionProDB.dll
+C:\Users\defpr\Programs\visionPro\VisionProDB\obj\Debug\VisionProDB.pdb
